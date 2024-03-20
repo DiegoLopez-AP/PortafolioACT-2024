@@ -1119,3 +1119,6 @@ section {
   margin-left: calc(-.5* var(--bs-gutter-x));
 }
 
+.diego{
+  background-image: linear-gradient(90deg, #1df1ef, #ef1df1);;
+}
